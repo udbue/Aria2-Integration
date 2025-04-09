@@ -17,3 +17,6 @@ Aria2 Download Manager Integration use Third Party code for certain functions. T
 ## polygoat
 
 <https://github.com/RossWang/Aria2-Integration/blob/master/App/lib/polygoat.LICENSE>
+
+## original extension
+<https://github.com/RossWang/Aria2-Integration>
