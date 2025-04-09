@@ -42,6 +42,10 @@
      "128": "data/icons/128.png",
      "256": "data/icons/256.png"
   },
+  "options_ui": {
+    "page": "data/options/menu.html",
+    "open_in_tab": true
+}
   "applications": {
     "gecko": {
       "id": "aria2integ@udbue",
